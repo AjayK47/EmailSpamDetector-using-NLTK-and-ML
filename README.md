@@ -46,6 +46,8 @@ The testing process evaluates the accuracy of the models on a test set and provi
 -  'tfidf_vectorizer.joblib' (TF-IDF vectorizer)
 
 ### Model usage :
+- SVM model is not provided in git repo , if you want you download it here:
+  - [SVM Model](https://www.playbook.com/s/ajayk47/cSaFvN7qWCSqERRPbK59E9FK?assetToken=3AHvGhha4JFjWE12CJipGfkx)
 
 - Load the Trained models , if you havent trained download models from repo and provided link 
 
